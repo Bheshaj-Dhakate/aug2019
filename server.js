@@ -1,3 +1,2 @@
 const express = require("express")
-
-//hello world
+const mysql = require("mysql")
